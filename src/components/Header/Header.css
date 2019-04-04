@@ -1,0 +1,8 @@
+.header {
+    align-items: center;
+    background-color: tomato;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 2rem;
+}

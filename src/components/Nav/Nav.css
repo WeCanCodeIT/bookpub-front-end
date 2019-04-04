@@ -1,0 +1,21 @@
+.nav__list {
+    display: flex;
+    list-style: none;
+}
+
+.nav__item {
+    margin-right: 1rem;
+}
+
+.nav__item:last-child {
+    margin-right: 0;
+}
+
+.nav__item a {
+    cursor: pointer;
+    padding: 0.125rem;
+}
+
+.nav__item a:hover {
+    background-color: rgba(0,0,0,0.2);
+}
