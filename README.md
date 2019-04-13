@@ -1,3 +1,3 @@
 # Bookpub Front End (React)
 
-A front-end companion for [this API example](git@github.com:WeCanCodeIT/bookpub).
+A front-end companion for [this API example](https://github.com/WeCanCodeIT/bookpub).
